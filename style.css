@@ -5,9 +5,12 @@
 h1 {color:#000000;
   font-family: 'Anton', ;}
 
-h2 {color:#2E63BF
+.volunteer_header {color:#2E63BF
 font-family: 'Anton', ;}
 
+.education_header {color:#2E63BF
+font-family: 'Anton', ;
+}
 body{ 
 font-family: 'Cormorant Garamond', ;}
 
