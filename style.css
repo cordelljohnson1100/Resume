@@ -5,13 +5,11 @@
 h1 {color:#000000;
   font-family: 'Anton', ;}
 
-.volunteer_header {color:#2E63BF
+h2 {color:#2E63BF
 font-family: 'Anton', ;}
-
-.education_header {color:#2E63BF
-font-family: 'Anton', ;
 }
-body{ 
+
+ul,li { 
 font-family: 'Cormorant Garamond', ;}
 
 li {margin: 15px 0;}
