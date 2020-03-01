@@ -9,7 +9,10 @@ h1 {color:#000000;
 h2 {color:#2E63BF
 font-family: 'Lalezar', ;
   font-style: bold;
-   
+  
+.tagline {font-style: bold;
+   text-align: center;
+  }
 
 ul,li { 
 font-family: 'Cormorant Garamond', ;}
