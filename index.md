@@ -11,6 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+# Cordell Johnson
+www.linkedin.com/in/cordelljohnson/| cordelljohnson@my.unt.edu
+## Education
+Bachelor of Science in Professional and Technical Communication   Expected Graduation 2022  
+University of North Texas, Denton, TX
+Cumulative GPA: 4.0
+### Relevant Coursework:
+-Usability and User Experience in Technical Communication (TECM 4300) 
+
 # Header 1  Cordell Johnson
 ## Header 2
 ### Header 3
@@ -26,12 +35,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cordelljohnson1100/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
