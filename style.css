@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
-    
+  hr { color: #61B329;
+       weight: 6rem;
+}
 
 h1 {color: #61B329;}
 
