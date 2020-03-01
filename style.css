@@ -1,12 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-<head>
-<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+    
 hr {width:12px;
     background-color:1D5285;}
     
 h1 {color: #61B329;}
-</style>
-</head>
-</html>
+
+body{ font-family: 'Roboto', sans-serif;}
+
