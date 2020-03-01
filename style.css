@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 
 h1 {color:#000000;
-  font-family: 'Anton', ;}
-
+  text-align: center;
+    font-family: 'Roboto', sans-serif;
+  
 h2 {color:#2E63BF
-font-family: 'Anton', ;}
-}
+font-family: 'Anton', ;
+   font-family: 'Roboto', sans-serif;}
 
 ul,li { 
 font-family: 'Cormorant Garamond', ;}
