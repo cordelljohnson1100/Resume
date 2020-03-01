@@ -1,36 +1,78 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cordell Johnson Resume</title>
+  
+</head>
+ <body> 
+<header>   
+        <h1>Cordell Johnson</h1>
+    <p>www.linkedin.com/in/cordelljohnson/| cordelljohnson@my.unt.edu</p>
+   </header>
+      
+    <main>
+   <h2>Education</h2>
+    <hr></hr>
+    <ul>
+        <li>Bachelor of Science in Professional and Technical Communication Expected Graduation 2022</li>  
+        <li>University of North Texas, Denton, TX</li>
+        <li>Cumulative GPA: 4.0</li>
+    </ul>
+    <p>Relevant Coursework:</p>
+        <ul>
+            <li>Usability and User Experience in Technical Communication (TECM 4300)</li>
+            <li>Presented findings and recommendations after conducting moderated and unmoderated usability tests.</li>  
+            <li>Planned 5 projects using card sort, affinity diagram, and developed post-test questionnaires to properly organize information for intended personas.</li>
+            <li>Moderated testing sessions in-person and online through the website usertesting.com.</li>
+            <li>The Profession of Technical Communication (TECM 2800)</li>
+            <li>Reorganized website content using wireframes, mockups, and prototype tools.</li>
+<li>Managed group deadlines with detailed schedules for 3 projects in a simulated Agile work environment.</li> 
+<li>Communicated research findings through 2 oral presentations.</li>
+<li>Social Psychology (PSYC 3100)</li>
+<li>Discussed research methods and how to apply ethical standards when interacting with test participants.</li>
+<li>Created 3 research reports and presentations using Microsoft Office programs including Word and PowerPoint.</li>
+<li>Advanced Technical Communication (TECM 4180)</li>
+<li>Wrote scripts and surveys to evaluate opinions of a targeted audience.</li>
+<li>Applied research methods to present data on the characteristics of different cultures. </li>
+<li>Investigated and made recommendations for workplace problems in the technical communication field. </li>
 
-You can use the [editor on GitHub](https://github.com/cordelljohnson1100/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+        </ul>
+    <br>
+      <h2>Volunteer Experience</h2>
+    <hr></hr>
+       <ul>
+        <li>Red Cross Volunteer, Radiology Department 2015 – 2018</li>  
+        <li>Madigan Army Medical Center</li>
+        <li>Joint Base Lewis-McChord, WA</li>
+       </ul>
+        <ul>
+            <li>Created appointments through Composite Health Care System and Microsoft Excel programs.</li>
+            <li>Developed empathy and patience by assisting hospital patients on a daily basis.</li> 
+            <li>Organized and created inventory spreadsheets for the Radiology Technicians.</li>
+            <li>Organized schedules and packets for MRI, CT, and Ultrasound appointments.</li>
+      </ul>
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Cordell Johnson
-www.linkedin.com/in/cordelljohnson/| cordelljohnson@my.unt.edu
-## Education
-Bachelor of Science in Professional and Technical Communication   Expected Graduation 2022  
-University of North Texas, Denton, TX
-Cumulative GPA: 4.0
-### Relevant Coursework:
--Usability and User Experience in Technical Communication (TECM 4300) 
-
-# Header 1  Cordell Johnson
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+            <h5>Filling:</h5>
+            <ul>
+                <li>2 cups cream cheese, at room temperature</li>
+                <li>2 large eggs</li>
+                <li>2/3 cup granulated sugar</li>
+                <li>1 teaspoon vanilla extract</li>
+            </ul>
+        
+    </main>
+    <footer>
+        <span class="tecm32">Spring 2020 TECM 3200</span>
+        <span class="contactus">Contact us: <a href="mailto:tecm32@somewhere.com">tecm32@somewhere</a></span>
+        <span class="social_icons">
+            <a href="linktofacebook"><i class="fab fa-facebook"></i></a>
+            <a href="linktotwitter"><i class="fab fa-twitter"></i></a>
+        </span>
+    </footer>
+    <script src="https://kit.fontawesome.com/92f7ef4c7a.js" crossorigin="anonymous"></script>
+</body>
+</html>
 
